@@ -1,4 +1,4 @@
 # Kosmose-Mang
-# Rühma liikmed:
+Rühma liikmed:
 - Magnar Õunamägi
-# Probleemi lahendus: ajaviite pakkumine
+Probleemi lahendus: ajaviite pakkumine
