@@ -1,4 +1,4 @@
-# Kosmose-Mang
+# Kosmose-Mäng
 ### Rühma liikmed:
 - Magnar Õunamägi
 #### Probleem:
