@@ -2,4 +2,4 @@
 ### Rühma liikmed:
 - Magnar Õunamägi
 #### Probleem:
-Inimestel on tihti igav, kuna nad ei leia midagi huvitavat või kaasahaaravat teha. Mäng aitab igavust leevendada, pakkudes lõbusat ja põnevat tegevust.
+Meil on tihti igav, kuna me ei leia midagi huvitavat või kaasahaaravat teha. Mäng aitab igavust leevendada, pakkudes lõbusat ja põnevat tegevust.
